@@ -6,9 +6,6 @@
   💼 KMC <br>
 </div></h3>
 
-
-
-
 <br><br>
 
 <div align="center">
@@ -26,6 +23,14 @@
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">  
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+</div>
+
+<br><br>
+
+<div align="center">
+  <h3>🧩About me🧩</h3>
+  <a href="https://rlawo32.github.io/my-portfolio/"><img src="https://img.shields.io/badge/github pages-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://rlawo32.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
 </div>
 
 <br><br>
