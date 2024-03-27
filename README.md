@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=HELLO!!)
 
-<h3><div align="center">
+<h4><div align="center">
   💡 My goal is to be a full-stack developer ! <br>
   ✏️ NextJS, React-Native <br>
   💼 KMC <br>
