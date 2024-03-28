@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <h3>⚒️Tech Stack🛠️</h3>
+  <h3>⚒️ Tech Stack 🛠️</h3>
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -31,7 +31,7 @@
 <br><br>
 
 <div align="center">
-  <h3>🧩About me🧩</h3>
+  <h3>🧩 About me 🧩</h3>
   <a href="https://rlawo32.github.io/my-portfolio/"><img src="https://img.shields.io/badge/github pages-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
   <a href="https://rlawo32.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
 </div>
@@ -39,7 +39,7 @@
 <br><br><br>
 
 <div align="center">
-  <h3>📊My GitHub Stats📊</h3>
+  <h3>📊 My GitHub Stats 📊</h3>
 
   | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rlawo32&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="rlawo32's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlawo32&layout=compact&theme=buefy&hide_border=true" /></a> | 
   | ------------- | ------------- |
@@ -48,7 +48,7 @@
 <br><br>
 
 <div align="center">
-  <h3>🏆My Algorithm Level🏆</h3>
+  <h3>🏆 My Algorithm Level 🏆</h3>
   
   | [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawo32)](https://solved.ac/rlawo32) | ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlawo32&theme=warm) |
   | ------------- | ------------- |
