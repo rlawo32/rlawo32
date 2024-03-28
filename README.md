@@ -8,7 +8,7 @@
   </div>
 </h4>
 
-<br><hr>
+<br>
 
 <div align="center">
   <h3>⚒️Tech Stack🛠️</h3>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
 
-<br><hr>
+<br><br>
 
 <div align="center">
   <h3>🧩About me🧩</h3>
@@ -36,7 +36,7 @@
   <a href="https://rlawo32.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
 </div>
 
-<br><hr>
+<br><br><br>
 
 <div align="center">
   <h3>📊My GitHub Stats📊</h3>
@@ -45,7 +45,7 @@
   | ------------- | ------------- |
 </div>
 
-<br><hr>
+<br><br>
 
 <div align="center">
   <h3>🏆My Algorithm Level🏆</h3>
