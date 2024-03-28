@@ -38,15 +38,11 @@
 
 <br><hr>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawo32)](https://solved.ac/rlawo32)
-
-<br><hr>
-
 <div align="center">
   <h3>📊My GitHub Stats📊</h3>
 
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rlawo32&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="rlawo32's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlawo32&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rlawo32&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="rlawo32's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlawo32&layout=compact&theme=buefy&hide_border=true" /></a> | [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawo32)](https://solved.ac/rlawo32) |
+| ------------- | ------------- | ------------- | 
 </div>
 
 <br>
