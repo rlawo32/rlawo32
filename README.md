@@ -1,12 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=HELLO!!)
 
-<h4><div align="center">
-  💡 My goal is to be a full-stack developer ! <br>
-  ✏️ NextJS, React-Native <br>
-  💼 KMC <br>
-</div></h3>
+<h4>
+  <div align="center">
+    💡 My goal is to be a full-stack developer ! <br>
+    ✏️ NextJS, React-Native <br>
+    💼 KMC <br>
+  </div>
+</h4>
 
-<br><br>
+<br><hr>
 
 <div align="center">
   <h3>⚒️Tech Stack🛠️</h3>
@@ -26,7 +28,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
 
-<br><br>
+<br><hr>
 
 <div align="center">
   <h3>🧩About me🧩</h3>
@@ -34,7 +36,11 @@
   <a href="https://rlawo32.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
 </div>
 
-<br><br>
+<br><hr>
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawo32)](https://solved.ac/rlawo32)
+
+<br><hr>
 
 <div align="center">
   <h3>📊My GitHub Stats📊</h3>
@@ -42,6 +48,7 @@
   | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rlawo32&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="rlawo32's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlawo32&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 </div>
+
 <br>
 
 <!-- ## [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rlawo32&repo=my-portfolio)](https://github.com/rlawo32/my-portfolio) -->
