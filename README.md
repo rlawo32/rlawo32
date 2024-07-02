@@ -54,6 +54,6 @@
   | ------------- | ------------- |
 </div>
 
-<br>
+<br><br>
 
 <!-- ## [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rlawo32&repo=my-portfolio)](https://github.com/rlawo32/my-portfolio) -->
