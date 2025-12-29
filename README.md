@@ -3,8 +3,6 @@
 <h4>
   <div align="center">
     💡 My goal is to be a full-stack developer ! <br>
-    ✏️ NextJS, React-Native <br>
-    💼 KMC <br>
   </div>
 </h4>
 
