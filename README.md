@@ -36,15 +36,6 @@
   <a href="https://rlawo32.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
 </div>
 
-<br><br><br>
-
-<div align="center">
-  <h3>📊 My GitHub Stats 📊</h3>
-
-  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rlawo32&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="rlawo32's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlawo32&layout=compact&theme=buefy&hide_border=true" /></a> | 
-  | ------------- | ------------- |
-</div>
-
 <br><br>
 
 <div align="center">
