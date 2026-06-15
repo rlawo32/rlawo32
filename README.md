@@ -32,13 +32,4 @@
 
 <br><br>
 
-<div align="center">
-  <h3>🏆 My Algorithm Level 🏆</h3>
-  
-  | [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawo32)](https://solved.ac/rlawo32) | ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlawo32&theme=warm) |
-  | ------------- | ------------- |
-</div>
-
-<br><br>
-
 <!-- ## [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rlawo32&repo=my-portfolio)](https://github.com/rlawo32/my-portfolio) -->
